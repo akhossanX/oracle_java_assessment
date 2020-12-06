@@ -1,0 +1,8 @@
+interface Flyable {
+	void	fly();
+}
+
+abstract class AirPlane implements Flyable{}
+abstract class Bird implements Flyable{}
+
+

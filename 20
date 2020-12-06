@@ -1,0 +1,5 @@
+enum Planet {
+	MERCURY, VENUS, EARTH
+}
+
+Planet.MERCURY == Planet.MERCURY;
